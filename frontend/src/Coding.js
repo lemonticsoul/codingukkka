@@ -13,7 +13,7 @@ function Coding(){
 
     
     useEffect(()=>{
-        axios.get('http://localhost:5000/api/problems')
+        axios.get('http://54.180.82.10:5000/api/problems')
         .then(response=>{
             setProblems(response.data);
         })
