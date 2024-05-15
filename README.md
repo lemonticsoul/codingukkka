@@ -1,6 +1,7 @@
 
 ## 코딩억까 (모의 코딩테스트 페이지 구현)
 
+![image](https://github.com/lemonticsoul/codingukkka/assets/127959482/ab1b6d89-6672-453b-9eb3-a513ba134563)
 
 ### 기간
 
