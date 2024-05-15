@@ -70,7 +70,7 @@ function Coding(){
             <div className="problem-details">
               <h2>{selectedProblem.title}</h2>
               <p>{selectedProblem.description}</p>
-              <a href={selectedProblem.link}>코테 풀러 가기 ㄱㄱ</a>
+              <a href={selectedProblem.link} target="_blank" rel="noopener noreferrer">코테 풀러 가기 ㄱㄱ</a>
             </div>
           )}
     </div>
