@@ -22,6 +22,6 @@ app.get('/api/problems',(req,res)=>{
     res.json(problems);
 });
 
-app.listen(port,()=>{
-    console.log('서버가 잘 작동하네요!');
-})
+app.listen(port, '0.0.0.0', () => {
+    console.log(`Server is running on http://localhost:${port}`);
+  });
